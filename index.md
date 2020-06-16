@@ -1,5 +1,7 @@
+![Image text](https://wengdongdong.github.io/kendo.io/minglun_002.png)
 
 ![Image text](https://wengdongdong.github.io/kendo.io/logo.png)
+
 
 北京明伦剑道馆成立于2019年七月，为CKOU地区认证中心，是北京海淀区唯一一家全天候的剑道俱乐部。
 本馆以努力推广剑道运动、并且为广大剑道爱好者创造一个良好的活动环境为宗旨，致力于使更多人能够认识剑道、了解剑道、热爱剑道，从而加入到我们当中来，共同练习，共同进步，共同享受剑道所带来的无限乐趣。
